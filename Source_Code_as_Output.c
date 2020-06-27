@@ -1,4 +1,4 @@
-//Display its own source code as output
+//Display its own source code as output.
 #include<stdio.h>
 int main()
 {
