@@ -11,6 +11,4 @@ int main()
 	}while(c!=EOF);
 	fclose(fp);
 	return 0;
-	
-	
 }
